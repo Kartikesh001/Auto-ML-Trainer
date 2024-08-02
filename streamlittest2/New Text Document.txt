@@ -1,0 +1,10 @@
+planning ,spike, skill matrix
+architecture diagram - monolith(one file) micoservice(multiple files)
+code quality commenting 
+data cleaning
+csv, xlsx - more formats
+aiml permonace accuracy
+ui ux
+user manual
+team members question
+is it shippable
